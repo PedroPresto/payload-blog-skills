@@ -1,0 +1,14 @@
+{
+  "name": "payload-blog-skills",
+  "owner": {
+    "name": "Pedro Presto",
+    "url": "https://github.com/PedroPresto"
+  },
+  "plugins": [
+    {
+      "name": "payload-blog-skills",
+      "source": "./",
+      "description": "Scaffold a Payload CMS + Neon + Cloudinary blog on Next.js and publish GEO/SEO-optimized posts to it. Bundles the payload-blog-nextjs and post-to-blog skills."
+    }
+  ]
+}

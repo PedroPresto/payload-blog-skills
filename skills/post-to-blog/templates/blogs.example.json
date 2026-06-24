@@ -1,0 +1,13 @@
+{
+  "_comment": "Save this to ~/.claude/blogs.json. Add one entry per blog. The 'name' (the key) is what you pass to --blog. Get the apiKey from each site's /admin: log in, open your user profile, enable API Key, save, copy the generated value.",
+  "blogs": {
+    "my-blog": {
+      "url": "https://myblog.com",
+      "apiKey": "REPLACE_WITH_YOUR_PAYLOAD_API_KEY"
+    },
+    "second-blog": {
+      "url": "https://anotherblog.com",
+      "apiKey": "REPLACE_WITH_YOUR_PAYLOAD_API_KEY"
+    }
+  }
+}

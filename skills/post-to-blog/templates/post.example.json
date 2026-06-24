@@ -1,0 +1,31 @@
+{
+  "title": "Adaptive surfing in Florianópolis: how to start",
+  "slug": "adaptive-surfing-florianopolis",
+  "excerpt": "Florianópolis offers adaptive surfing lessons year-round — free classes for people with disabilities, with adapted boards and trained volunteers.",
+  "cover": "./cover.jpg",
+  "alt": "Surfer with adaptive board catching a wave at Praia Mole, Florianópolis",
+  "caption": "Praia Mole, 2024",
+  "status": "published",
+  "content": [
+    { "type": "p", "text": "Florianópolis is one of the only cities in Brazil with year-round adaptive surfing programs, with both public and NGO-run sessions every week." },
+    { "type": "h2", "text": "Who can participate" },
+    { "type": "ul", "items": [
+      "People with physical disabilities",
+      "Visually impaired participants (with guide surfers)",
+      "Wheelchair users (with adapted boards)",
+      "First-time surfers of any background"
+    ]},
+    { "type": "h2", "text": "Where to find lessons" },
+    { "type": "p", "text": "Most adaptive sessions happen at Praia Mole and Joaquina, on weekend mornings." },
+    { "type": "h3", "text": "Praia Mole" },
+    { "type": "p", "text": "Larger waves, more experienced instructors. Best for intermediate surfers." },
+    { "type": "h3", "text": "Joaquina" },
+    { "type": "p", "text": "Smaller, more predictable waves. Recommended for first-timers." },
+    { "type": "h2", "text": "How to sign up" },
+    { "type": "p", "runs": [
+      { "text": "Free registration at " },
+      { "type": "link", "url": "https://example.com/signup", "text": "example.com/signup" },
+      { "text": ". Sessions run Saturday and Sunday, 8h-12h." }
+    ]}
+  ]
+}

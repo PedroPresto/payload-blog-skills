@@ -1,0 +1,24 @@
+{
+  "name": "payload-blog-skills",
+  "version": "1.0.0",
+  "description": "Two Claude Code skills for Payload CMS blogs on Next.js: scaffold a Neon + Cloudinary blog (payload-blog-nextjs) and publish GEO/SEO-optimized posts to it via the REST API (post-to-blog).",
+  "author": {
+    "name": "Pedro Presto",
+    "url": "https://github.com/PedroPresto"
+  },
+  "homepage": "https://github.com/PedroPresto/payload-blog-skills",
+  "repository": "https://github.com/PedroPresto/payload-blog-skills",
+  "license": "MIT",
+  "keywords": [
+    "payload",
+    "payload-cms",
+    "nextjs",
+    "blog",
+    "cms",
+    "cloudinary",
+    "neon",
+    "postgres",
+    "seo",
+    "geo"
+  ]
+}

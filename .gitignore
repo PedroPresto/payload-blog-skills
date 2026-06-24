@@ -1,0 +1,10 @@
+# Never commit real blog credentials — the skill reads these from ~/.claude/blogs.json
+blogs.json
+.env
+.env.local
+.env.*.local
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+node_modules/
